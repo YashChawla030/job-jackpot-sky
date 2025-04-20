@@ -114,23 +114,7 @@
   },
   "projectsInfo": {
     "displayName": "Timeline",
-    "projects": [
-      {
-        "id": "06c5bace-f6d4-404e-a621-2c8675631eda",
-        "timeline": "sfd",
-        "projectName": "dsf",
-        "headline1": "sdf",
-        "headline2": "dsf",
-        "designation": "fsd",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "df",
-        "companyName": "dsf",
-        "images": []
-      }
-    ]
+    "projects": []
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
