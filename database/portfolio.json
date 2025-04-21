@@ -143,21 +143,6 @@
         ],
         "rank": "2",
         "id": "4069c2ee-e871-40f3-ac5e-cd219a2cf643"
-      },
-      {
-        "id": "d177c8eb-0846-4958-8536-9ffccf52b085",
-        "timeline": "2015-17",
-        "projectName": "Intuit Quickboo",
-        "headline1": "Currently pursuing B.Tech in Computer Science.",
-        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
-        "designation": "Project Manager",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
-        "companyName": "",
-        "images": []
       }
     ]
   },
