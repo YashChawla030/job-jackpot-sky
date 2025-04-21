@@ -143,6 +143,31 @@
         ],
         "rank": "2",
         "id": "4069c2ee-e871-40f3-ac5e-cd219a2cf643"
+      },
+      {
+        "id": "adf63329-dee0-420f-83d9-7463efc36731",
+        "timeline": "Jan'23 – Present",
+        "projectName": "AWS Cloud Dashboard",
+        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
+        "headline2": "Implemented CI/CD pipelines for automated deployments.",
+        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "full stack 2.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/job-jackpot-sky/master/images/full%20stack%202.png"
+          },
+          {
+            "fileName": "full stack 3.png",
+            "fileUrl": "https://raw.githubusercontent.com/YashChawla030/job-jackpot-sky/master/images/full%20stack%203.png"
+          }
+        ],
+        "rank": "1"
       }
     ]
   },
